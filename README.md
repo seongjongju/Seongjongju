@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -31,7 +32,9 @@
     <div style="text-align: left;"> <a href=mailto:sjj990480@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sjj990480@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;"> 
-        [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=seongjongju)](https://github.com/stats-organization/github-stats-extended)
-    </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Stats </h2> <br> 
+        <img src="https://github-stats-extended.vercel.app/api?username=seongjongju" /> <br>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=seongjongju" />
+    </div>
     </div>
     

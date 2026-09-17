@@ -34,7 +34,7 @@
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Stats </h2> <br> 
         <img src="https://github-stats-extended.vercel.app/api?username=seongjongju" /> <br>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=seongjongju" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=seongjongju&layout=donut" />
     </div>
     </div>
     
